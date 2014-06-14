@@ -1,4 +1,4 @@
 これは2つの数の最大公約数を求めるシェルスクリプトです。
 example of method:~$./gcd.14745125 first-number second-number
 example of test:input ~$./gcd.14745125 12 15
-                output 3olivia-no-MacBook-Pro:~ olivia$
+                output 3
